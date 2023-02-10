@@ -4,7 +4,7 @@ Iniciando na  carreira dev .🌑
 
   
 
-Em 2023 conclui o curso profissoonalizante de Programador de  Sistemas do SENAC Campo Mourão
+Em 2023 conclui o curso profissonalizante de Programador de  Sistemas do SENAC Campo Mourão
 
 Buscanndo oportunidades para evoluir.
 
