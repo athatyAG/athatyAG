@@ -1,16 +1,15 @@
-### Hi there 👋
+### Thatiane De Araujo Gregorini  
 
-<!--
-**athatyAG/athatyAG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Iniciando na  carreira dev .🌑 
 
-Here are some ideas to get you started:
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Em 2023 conclui o curso profissoonalizante de Programador de  Sistemas do SENAC Campo Mourão
+
+Buscanndo oportunidades para evoluir.
+
+
+
+![athatyAG GitHub stats](https://github-readme-stats.vercel.app/api?username=athatyAG&show_icons=true&theme=kacho_ga)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=athatyAG&layout=compact&theme=kacho_ga)](https://github.com/athatyAG)
